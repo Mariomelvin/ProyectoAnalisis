@@ -31,7 +31,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <a class="navbar-brand" href="home.jsp">
       <img src="https://umg.edu.gt/miumg/sesion_files/logo_white.png" width="30" height="30" class="d-inline-block align-top" alt="">
-      SERVIMANGUERAS
+      EXAMEN FINAL
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
